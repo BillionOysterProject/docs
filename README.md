@@ -1,0 +1,2 @@
+# docs
+This repository's sole purpose is to contain documentation (and related files) for the BOP Digital Platform, specifically the User Guide (found in this repository's wiki).  The platform's code lives in the repository "Digital-Platform."  For a quick overview of the platform, check out the [BOP Digital Platform Quick Guide](https://www.arcgis.com/apps/MapJournal/index.html?appid=64589a40aed54de69ea6ffab01a0868f).
